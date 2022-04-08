@@ -30,5 +30,8 @@
     <ClCompile Include="ex2-12.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="예제2-1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

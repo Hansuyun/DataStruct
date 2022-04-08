@@ -23,4 +23,5 @@ void main(){
 		printf("\n ¿¬ºÀ : %d", Lee[i].pay);
 	}
 	getchar();
+
 }
