@@ -6,7 +6,6 @@ void main() {
 	printf("\n문자 배열 str[] : ");
 	for (i = 0; str[i]; i++) {
 		printf("%c", str[i]);
-
 	}
 	getchar();
 }
