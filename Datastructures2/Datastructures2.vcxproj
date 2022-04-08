@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ex 2-14.cpp" />
     <ClCompile Include="ex2-12.cpp" />
     <ClCompile Include="예제 2-2.cpp" />
     <ClCompile Include="예제 2-4.cpp" />
