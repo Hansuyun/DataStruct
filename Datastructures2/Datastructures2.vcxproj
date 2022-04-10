@@ -139,13 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="addPoly.cpp" />
     <ClCompile Include="ex 2-14.cpp" />
     <ClCompile Include="ex2-12.cpp" />
+    <ClCompile Include="ex3_6.cpp" />
     <ClCompile Include="예제 2-2.cpp" />
     <ClCompile Include="예제 2-4.cpp" />
     <ClCompile Include="예제2-1.cpp" />
     <ClCompile Include="예제2-3.cpp" />
     <ClCompile Include="예제2-8.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="addPoly.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
