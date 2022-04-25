@@ -147,6 +147,7 @@
     <ClCompile Include="ex3-5.cpp" />
     <ClCompile Include="ex3_6.cpp" />
     <ClCompile Include="ex4-1.cpp" />
+    <ClCompile Include="ex4_2.c" />
     <ClCompile Include="insertLinkedList.cpp" />
     <ClCompile Include="LinkedList.c" />
     <ClCompile Include="예제 2-2.cpp" />
