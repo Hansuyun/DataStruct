@@ -152,6 +152,7 @@
     <ClCompile Include="ex4_3.c" />
     <ClCompile Include="insertLinkedList.cpp" />
     <ClCompile Include="LinkedList.c" />
+    <ClCompile Include="LinkedPoly.c" />
     <ClCompile Include="예제 2-2.cpp" />
     <ClCompile Include="예제 2-4.cpp" />
     <ClCompile Include="예제2-1.cpp" />
