@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="addPoly.cpp" />
+    <ClCompile Include="CircularLinkedList.c" />
     <ClCompile Include="ex 2-14.cpp" />
     <ClCompile Include="ex 3-5 smTranspose.cpp" />
     <ClCompile Include="ex 3-5.cpp" />
