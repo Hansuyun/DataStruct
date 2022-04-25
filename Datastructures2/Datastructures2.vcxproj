@@ -158,6 +158,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addPoly.h" />
+    <ClInclude Include="CircularLinkedList.h" />
     <ClInclude Include="ex3-5 smTranspose.h" />
     <ClInclude Include="insertLinkedList.h" />
     <ClInclude Include="LinkedList.h" />
