@@ -72,6 +72,9 @@
     <ClCompile Include="LinkedPoly.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ex4_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="addPoly.h">
