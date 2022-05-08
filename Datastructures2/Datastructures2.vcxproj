@@ -167,6 +167,7 @@
     <ClInclude Include="insertLinkedList.h" />
     <ClInclude Include="LinkedList.h" />
     <ClInclude Include="LinkedPoly.h" />
+    <ClInclude Include="stackS.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
